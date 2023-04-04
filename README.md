@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jc-martinez95
 - 👀 I’m an Entry-level Data analyst
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently looking for an entry-level or junior job
 - 💞️ I’m looking to the oportunity to help companies achieve their goals
 - 📫 How to reach me: martinez_jc95@hotmail.com
 
